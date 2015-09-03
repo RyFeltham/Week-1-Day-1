@@ -1,0 +1,47 @@
+.top-header {
+  margin: 0 auto;
+  text-align: center;
+  border: 100px;
+
+}
+
+p {
+  color: gold;
+  background-color: brown;
+  text-align: center;
+}
+
+header h1 {
+  font-size: auto;
+  color: blue;
+  opacity: 0.9;
+  background-color: black;
+  width: 220px;
+  border-style: ridge;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+
+}
+
+h2 {
+  background-color: brown;
+  opacity: 0.9;
+}
+
+h3 {
+  background-color: brown;
+}
+.author {
+  background-color: red;
+}
+
+.middle-header {
+  text-align: center; 
+  margin: 0 auto;
+  width: 220px;
+}
+
+body {
+  background: url(http://blogs-images.forbes.com/markhughes/files/2015/05/Mad-Max-The-Road-Warrior.png) no-repeat;
+}
